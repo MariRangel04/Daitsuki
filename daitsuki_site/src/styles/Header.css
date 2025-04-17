@@ -1,0 +1,25 @@
+.header-container{
+    background-color:FFF4DF; 
+    padding-top: 40px; /**/
+    padding-bottom: 20px;
+    position: relative;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    text-align: center;
+}
+
+.header-top-nuvem{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background: FF9A8A;
+    border-bottom-left-radius: 50% 100%;
+    border-bottom-right-radius: 50% 100%;
+}
+
+.logo {
+    max-width: 180px;
+    margin: 0 auto;
+}
